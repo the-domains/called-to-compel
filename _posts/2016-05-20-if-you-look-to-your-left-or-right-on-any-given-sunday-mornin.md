@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'If you look to your left or right on any given Sunday morning at Church, you will likely see rows of men and women who belong to Jesus. At some point through the years, you will likely have read the verse or heard a song about there being no condemnation for those who are in Christ Jesus. And that is super news for us and for the Christians around us. We will not be condemned by God because of the loving substitutional sacrifice of his Son! But have you ever considered the implications that verse has for those who are not in Christ?'
-datePublished: '2016-05-20T20:08:29.999Z'
-dateModified: '2016-05-20T20:07:55.054Z'
+datePublished: '2016-05-20T20:15:32.628Z'
+dateModified: '2016-05-20T20:15:17.727Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-20-if-you-look-to-your-left-or-right-on-any-given-sunday-mornin.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-20-if-you-look-to-your-left-or-right-on-any-given-sunday-mornin.md
 url: if-you-look-to-your-left-or-right-on-any-given-sunday-mornin/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/016f6b44-b304-474b-a65e-09ed3972ddce.jpg)
+
 If you look to your left or right on any given Sunday morning at Church, you will likely see rows of men and women who belong to Jesus. At some point through the years, you will likely have read the verse or heard a song about there being no condemnation for those who are in Christ Jesus. And that is super news for us and for the Christians around us. We will not be condemned by God because of the loving substitutional sacrifice of his Son! But have you ever considered the implications that verse has for those who are not in Christ?
 
 Often, as Christians, we read scripture through the eyes of a secured soul. Meaning, when we read John 3:18 the emphasis we come away with is whoever believes in Jesus is not condemned. Which is absolutely true and certainly applies to those who have been born again. But what we usually miss is that whoever does NOT believe in Jesus is condemned already.
