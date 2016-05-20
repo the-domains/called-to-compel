@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Called to Compel]]></title>
         <description><![CDATA[Called to Compel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/called-to-compel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 20:08:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 20:14:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/called-to-compel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf4dd38f-72d3-4388-8143-e14e06aea8f3.jpg">]]></description>
+            <link>https://thegrid.ai/called-to-compel/if-you-love-me-you-will-keep-my-commandments-whoever-does/index.html</link>
+            <guid isPermaLink="false">87ff625c-bbf1-4034-b768-3ab3ef45c75b</guid>
+            <pubDate>Fri, 20 May 2016 20:14:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>If you look to your left or right on any given Sunday morning at Church, you will likely see rows of men and women who belong to Jesus. At some point through the years, you will likely have read the verse or heard a song about there being no condemnation for those who are in Christ Jesus. And that is super news for us and for the Christians around us. We will not be condemned by God because of the loving substitutional sacrifice of his Son! But have you ever considered the implications that verse has for those who are not in Christ?</p>]]></description>
-            <link>undefinedif-you-look-to-your-left-or-right-on-any-given-sunday-mornin/index.html</link>
+            <link>https://thegrid.ai/called-to-compel/if-you-look-to-your-left-or-right-on-any-given-sunday-mornin/index.html</link>
             <guid isPermaLink="false">77d745d9-5ac8-4f95-a605-88e498853f43</guid>
             <pubDate>Fri, 20 May 2016 20:08:29 GMT</pubDate>
         </item>
